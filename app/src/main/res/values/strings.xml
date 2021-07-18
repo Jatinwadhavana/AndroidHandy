@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AndroidHandy</string>
+    <string name="save_to_collection">Save to Collection</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
 </resources>
